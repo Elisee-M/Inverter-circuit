@@ -59,3 +59,4 @@ You can simulate the circuit in **Proteus** or any electronic simulator by inclu
 - Battery source
 
 ---
+<img width="1261" height="597" alt="image" src="https://github.com/user-attachments/assets/6ef77774-c027-4f5d-b03d-58852c87ddbf" />
