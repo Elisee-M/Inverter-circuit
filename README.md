@@ -29,8 +29,6 @@ It combines **power electronics** and **microcontroller-based control** to ensur
 - 🔋 12V/24V Battery  
 - 🌀 Transformer (center-tapped)  
 - ⚡ Power MOSFETs (e.g., IRFZ44N)  
-- 🧠 Microcontroller (e.g., Arduino / PIC / ESP32)  
-- 📟 Display (LCD or LEDs)  
 - 🔌 Relays & Diodes  
 - 🔧 Capacitors, Resistors, Heatsink, etc.
 
