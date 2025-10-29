@@ -2,7 +2,7 @@
 ---
 <img width="1261" height="597" alt="image" src="https://github.com/user-attachments/assets/6ef77774-c027-4f5d-b03d-58852c87ddbf" />
 ---
-## 📝 Overview
+# 📝 Overview
 This project is a **smart inverter system** designed to convert **DC (Direct Current)** from a battery or solar source into **AC (Alternating Current)** that can power household or industrial devices.
 
 It combines **power electronics** and **microcontroller-based control** to ensure efficient and stable power output.
